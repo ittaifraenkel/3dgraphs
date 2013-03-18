@@ -1,0 +1,26 @@
+F:\i\i\bin\Debug\i.exe
+F:\i\i\bin\Debug\i.pdb
+F:\i\i\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\i\i\obj\x86\Debug\i.Form1.resources
+F:\i\i\obj\x86\Debug\i.Properties.Resources.resources
+F:\i\i\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\i\i\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\i\i\obj\x86\Debug\i.exe
+F:\i\i\obj\x86\Debug\i.pdb
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.exe
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.pdb
+G:\computers\3D graphics\draw #D graph\i\bin\Debug\i.exe
+G:\computers\3D graphics\draw #D graph\i\bin\Debug\i.pdb
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.csprojResolveAssemblyReference.cache
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.Form1.resources
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.Properties.Resources.resources
+G:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.csproj.GenerateResource.Cache
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.exe
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.pdb
+F:\computers\3D graphics\draw #D graph\i\bin\Debug\i.exe
+F:\computers\3D graphics\draw #D graph\i\bin\Debug\i.pdb
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.Form1.resources
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\i.Properties.Resources.resources
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\computers\3D graphics\draw #D graph\i\obj\x86\Debug\GenerateResource.write.1.tlog
