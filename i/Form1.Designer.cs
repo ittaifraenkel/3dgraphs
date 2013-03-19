@@ -75,7 +75,7 @@
             "sin(x) + cos(y)",
             "cos(x + y)",
             "cos(x^2 + sin(y^2))",
-            "sin(sqrt(x^2+y^2))/sqrt(x^2+y^2)"});
+            "sin((x^2+y^2)^(1/2))/((x^2+y^2)^(1/2))"});
             this.comboBox1.Location = new System.Drawing.Point(88, 112);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(149, 21);

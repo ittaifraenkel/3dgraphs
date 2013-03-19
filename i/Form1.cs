@@ -230,10 +230,7 @@ namespace i
             }
             if (pro[pro.Length - 1] == 'E')
             {
-                if (pro[0] == '-')
-                    return -0.00001F;
-                else
-                    return 0.00001F;
+                return (float.Parse(pro.Substring(0, pro.Length - 1)) / 10);
             }
             return float.Parse(pro);
         }
@@ -255,6 +252,10 @@ namespace i
                     x = min + (float)i * (max - min) / num;
                     y = min + (float)j * (max - min) / num;
                     points[i, j] = Solve(prob, x, y);
+                    if (points[i, j] != points[i, j])
+                    {
+                        points[i, j] = points[i, j - 1];
+                    }
                     if (maxz < points[i, j])
                         maxz = points[i, j];
                     if (minz > points[i, j])
@@ -274,7 +275,7 @@ namespace i
             }
             colormul = 250 / (Math.Max(Math.Abs(maxz), Math.Abs(minz)));
             int fitx = (int)(panel1.Width / (maxx - minx));
-            int fity = (int)(panel1.Height / (maxx - minx));
+            int fity = (int)(panel1.Height / (maxy - miny));
             int fit = Math.Min(fitx, fity);
             for (int i = 1; i < points.GetLength(0); i++)
             {
